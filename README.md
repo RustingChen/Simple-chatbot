@@ -57,19 +57,3 @@ ReactDOM.render(
 5. [Mixat](https://www.svt.se/mixat) - News Chatbot for tweenies. Also as app ([iOS](https://apps.apple.com/se/app/mixat-h%C3%A4r-f%C3%A5r-du-koll/id1239444432) or [Android](https://play.google.com/store/apps/details?id=se.svt.mixat))
 
 Built something with `react-simple-chatbot`? Submit a PR and add it to this list!
-
-## How to Contribute
-
-Please check the [contributing guide](https://github.com/LucasBassetti/react-simple-chatbot/blob/master/contributing.md)
-
-## Authors
-
-| ![Lucas Bassetti](https://avatars3.githubusercontent.com/u/1014326?v=3&s=150)|
-|:---------------------:|
-|  [Lucas Bassetti](https://github.com/LucasBassetti/)   |
-
-See also the list of [contributors](https://github.com/LucasBassetti/react-simple-chatbot/contributors) who participated in this project.
-
-## License
-
-MIT · [Lucas Bassetti](http://lucasbassetti.com.br)
